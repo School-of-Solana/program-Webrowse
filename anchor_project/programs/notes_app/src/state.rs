@@ -10,6 +10,3 @@ pub struct Note {
     pub created_at: i64,         // 8
     pub updated_at: i64,         // 8
 }
-// impl Note {
-//     pub const INIT_SPACE: usize = 32 + (4 + 1000) + 8 + 8 + 8;
-// }
